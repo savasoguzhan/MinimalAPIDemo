@@ -1,1 +1,1 @@
-# MinimalAPIDemo_Coupon-master
+# MinimalAPIDemo_Coupon
